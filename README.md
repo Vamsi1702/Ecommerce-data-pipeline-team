@@ -66,12 +66,12 @@ This table is used to calculate all KPIs.
 
 ##  KPIs Implemented
 
-- 📅 Daily Revenue  
-- 📊 Monthly Revenue  
-- 🧑‍💼 Top Customers  
-- 📦 Top Products  
-- 🗂️ Category Performance  
-- 🚚 Average Delivery Time  
+-  Daily Revenue  
+-  Monthly Revenue  
+-  Top Customers  
+-  Top Products  
+-  Category Performance  
+-  Average Delivery Time  
 
 ---
 
